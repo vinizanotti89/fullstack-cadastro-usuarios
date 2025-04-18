@@ -164,11 +164,8 @@ app.patch('/usuarios/atribuir-avatar-padrao', async (req, res) => {
 });
 
 
-app.listen(3000)
-//http://localhost:3000
+const PORT = process.env.PORT || 3000;
 
-
-/*
-MONGO DB
-zanotticelulares89 -  VrmevXD3Z6SkBfyI
-*/
+app.listen(PORT, () => {
+  console.log(`Servidor rodando na porta ${PORT}`);
+});
