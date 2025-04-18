@@ -26,20 +26,33 @@ Porém, haviam várias limitações:
 Transformei o desafio em um projeto completo com diversas melhorias:
 
 - 💥 **Tela de Login com autenticação e feedback animado**  
-  - Cadeado verde para login bem-sucedido  
-  - Cadeado vermelho para erro de autenticação  
+  - Cadeado verde para login bem-sucedido
+    <img width="1680" alt="Login Correto" src="https://github.com/user-attachments/assets/cf338f37-9e47-4de8-90d9-755fb1c6f417" />
+
+  - Cadeado vermelho para erro de autenticação
+    <img width="1680" alt="Usuário:Senha Inválida" src="https://github.com/user-attachments/assets/fe7dba98-03ec-4814-a309-5559130b7858" />
+
 
 - 💥 **Tela de Cadastro com animações e confetes 🎉**  
-  - Feedback visual ao cadastrar um novo usuário  
+  - Feedback visual ao cadastrar um novo usuário
+    <img width="1640" alt="Cadastro Com Sucesso" src="https://github.com/user-attachments/assets/f296e8cc-4952-4938-831b-8c7db4cbe761" />
+
 
 - 💥 **Escolha personalizada de avatar**  
-  - Diversas opções com reload para encontrar o "estilo" ideal  
-  - Componente reutilizável para alterar o avatar posteriormente  
+  - Diversas opções com reload para encontrar o "estilo" ideal
+    <img width="1473" alt="Tela Cadastro Usuário" src="https://github.com/user-attachments/assets/9a4f3bc5-1924-44ad-a05c-2e97f223bd90" />
+
+  - Componente reutilizável para alterar o avatar posteriormente
+    <img width="1665" alt="Alteração Avatar Dashboard" src="https://github.com/user-attachments/assets/8def6ace-cb39-4e17-be30-1448c348b348" />
+
 
 - 💥 **Dashboard interativo e funcional**  
-  - Contador de usuários  
+  - Contador de usuários
   - Listagem dos usuários cadastrados  
-  - Troca de avatar pós-cadastro  
+    <img width="1663" alt="Contador de usuários e detalhamento com avatar" src="https://github.com/user-attachments/assets/5f7220ed-6788-4354-ad8a-1e7c82f740dd" />
+
+  - Troca de avatar pós-cadastro
+    <img width="1665" alt="Alteração Avatar Dashboard" src="https://github.com/user-attachments/assets/8def6ace-cb39-4e17-be30-1448c348b348" />
 
 - 💥 **Validações de formulário reais**  
   - Campos obrigatórios  
@@ -90,11 +103,9 @@ Mais do que isso, me provou que dá pra transformar um exercício simples em alg
 
 ---
 
-## 📸 Prints e Demonstração
+## 📸 Demonstração (Usando BD, Publicações de maneira gratuita, leva mais tempo de resposta e por um período pequeno, mas full stack funcionando perfeitamente!)
+- 🌐 https://fullstack-cadastro-usuarios.vercel.app/
 
-- [🔗 GitHub do Projeto](https://github.com/vinizanotti89/fullstack-cadastro-usuarios)  
-- 🌐 **Demo em breve!**  
-- 📷 Prints no final do repositório (a adicionar)
 
 ---
 
